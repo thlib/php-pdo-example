@@ -1,4 +1,4 @@
-# PDO Connection Boilerplate
+# PDO connection boilerplate
 How to connect to PDO
 
 ```
